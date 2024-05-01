@@ -1,0 +1,13 @@
+#nav{
+    color:blanchedalmond;
+    background-color: black;
+    border-radius: 30px; 
+     padding: 10px;
+}
+a{
+    margin:10px ;
+}
+.sp{
+    display: inline;
+    padding: 330px;
+}
