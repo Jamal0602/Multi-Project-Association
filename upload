@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>upload</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+</body>
+</html><body>
+    <button formsappId="6632228fe120b8cfa38c4af6"></button>
+    <script src="https://forms.app/static/embed.js" type="text/javascript" async defer onload="new formsapp('6632228fe120b8cfa38c4af6', 'popup', {'overlay':'rgba(45,45,45,0)','button':{'color':'#ff9e24','text':'UPLOAD'},'width':'800px','height':'600px','openingAnimation':{'entrance':'animate__zoomIn','exit':'animate__zoomOut'}});"></script>
+    </body>
